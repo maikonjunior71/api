@@ -1,0 +1,17 @@
+{
+  "atual": 0,
+  "lista": [
+    {
+      "id": "instancia01",
+      "token": "token01"
+    },
+    {
+      "id": "instancia02",
+      "token": "token02"
+    },
+    {
+      "id": "instancia03",
+      "token": "token03"
+    }
+  ]
+}
